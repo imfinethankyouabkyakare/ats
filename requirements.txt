@@ -8,3 +8,4 @@ fpdf
 plotly
 google.generativeai
 docx
+exceptions
